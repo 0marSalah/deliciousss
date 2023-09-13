@@ -1,7 +1,7 @@
 {
   "name": "recipe-app",
   "version": "0.1.0",
-  "homepage": "https://OmarSalah1911.github.io/Recipe-App",
+  "homepage": "https://OmarSalah.github.io/Recipe-App",
   "private": true,
   "dependencies": {
     "@splidejs/react-splide": "^0.7.8",
